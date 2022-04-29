@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16764059955",
+    "project_id": "status-new-2ee85",
+    "storage_bucket": "status-new-2ee85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16764059955:android:61a2fce911fcf377537e46",
+        "android_client_info": {
+          "package_name": "com.dotaustere.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16764059955-r2k18nj3fl93lrjicfvbvhdsbuh54nhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqq6bOFYD8KwqA6icmMaJvmSpgSFrC7tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16764059955-r2k18nj3fl93lrjicfvbvhdsbuh54nhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
